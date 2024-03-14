@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module SpamFilterC1003 {
-}
